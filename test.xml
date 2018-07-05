@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <space bossRefresh="../config/map/110101_bossRefresh.json" channel="3001" id="110101" nav="../config/map/110101_nav.bytes" out_channel="3001" out_merge_channel="3001" scene="../config/map/110101_scene.json"/>
+  <space bossRefresh="../config/map/110201_bossRefresh.json" channel="3001" id="110201" nav="../config/map/110201_nav.bytes" out_channel="3001" out_merge_channel="3001" scene="../config/map/110201_scene.json"/>
+  <space bossRefresh="../config/map/110301_bossRefresh.json" channel="3001" id="110301" nav="../config/map/110301_nav.bytes" out_channel="3001" out_merge_channel="3001" scene="../config/map/110301_scene.json"/>
+  <space bossRefresh="../config/map/110401_bossRefresh.json" channel="3001" id="110401" nav="../config/map/110401_nav.bytes" out_channel="3001" out_merge_channel="3001" scene="../config/map/110401_scene.json"/>
+  <space bossRefresh="../config/map/110501_bossRefresh.json" channel="3001" id="110501" nav="../config/map/110501_nav.bytes" out_channel="3001" out_merge_channel="3001" scene="../config/map/110501_scene.json"/>
+  <space bossRefresh="../config/map/110601_bossRefresh.json" channel="3002" id="110601" nav="../config/map/110601_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/110601_scene.json"/>
+  <space bossRefresh="../config/map/110701_bossRefresh.json" channel="3002" id="110701" nav="../config/map/110701_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/110701_scene.json"/>
+  <space bossRefresh="../config/map/110801_bossRefresh.json" channel="3002" id="110801" nav="../config/map/110801_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/110801_scene.json"/>
+  <space bossRefresh="../config/map/110901_bossRefresh.json" channel="3002" id="110901" nav="../config/map/110901_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/110901_scene.json"/>
+  <space bossRefresh="../config/map/111001_bossRefresh.json" channel="3002" id="111001" nav="../config/map/111001_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/111001_scene.json"/>
+  <space bossRefresh="../config/map/120101_bossRefresh.json" channel="3002" id="120101" nav="../config/map/120101_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120101_scene.json"/>
+  <space bossRefresh="../config/map/120109_bossRefresh.json" channel="3002" id="120109" nav="../config/map/120109_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120109_scene.json"/>
+  <space bossRefresh="../config/map/120301_bossRefresh.json" channel="3002" id="120301" nav="../config/map/120301_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120301_scene.json"/>
+  <space bossRefresh="../config/map/120302_bossRefresh.json" channel="3002" id="120302" nav="../config/map/120302_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120302_scene.json"/>
+  <space bossRefresh="../config/map/120304_bossRefresh.json" channel="3002" id="120304" nav="../config/map/120304_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120304_scene.json"/>
+  <space bossRefresh="../config/map/120305_bossRefresh.json" channel="3002" id="120305" nav="../config/map/120305_nav.bytes" out_channel="3002" out_merge_channel="3002" scene="../config/map/120305_scene.json"/>
+  <space bossRefresh="../config/map/140100_bossRefresh.json" channel="3003" id="140100" nav="../config/map/140100_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140100_scene.json"/>
+  <space bossRefresh="../config/map/140101_bossRefresh.json" channel="3003" id="140101" nav="../config/map/140101_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140101_scene.json"/>
+  <space bossRefresh="../config/map/140102_bossRefresh.json" channel="3003" id="140102" nav="../config/map/140102_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140102_scene.json"/>
+  <space bossRefresh="../config/map/140103_bossRefresh.json" channel="3003" id="140103" nav="../config/map/140103_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140103_scene.json"/>
+  <space bossRefresh="../config/map/140105_bossRefresh.json" channel="3003" id="140105" nav="../config/map/140105_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140105_scene.json"/>
+  <space bossRefresh="../config/map/140106_bossRefresh.json" channel="3003" id="140106" nav="../config/map/140106_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140106_scene.json"/>
+  <space bossRefresh="../config/map/140111_bossRefresh.json" channel="3003" id="140111" nav="../config/map/140111_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140111_scene.json"/>
+  <space bossRefresh="../config/map/140112_bossRefresh.json" channel="3003" id="140112" nav="../config/map/140112_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140112_scene.json"/>
+  <space bossRefresh="../config/map/140113_bossRefresh.json" channel="3003" id="140113" nav="../config/map/140113_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140113_scene.json"/>
+  <space bossRefresh="../config/map/140121_bossRefresh.json" channel="3003" id="140121" nav="../config/map/140121_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/140121_scene.json"/>
+  <space bossRefresh="../config/map/190001_bossRefresh.json" channel="3003" id="190001" nav="../config/map/190001_nav.bytes" out_channel="3003" out_merge_channel="3003" scene="../config/map/190001_scene.json"/>
+  <space bossRefresh="../config/map/120506_bossRefresh.json" channel="" copy="1" id="120506" nav="../config/map/120506_nav.bytes" scene="../config/map/120506_scene.json"/>
+  <space bossRefresh="../config/map/161101_bossRefresh.json" channel="" copy="1" id="161101" nav="../config/map/161101_nav.bytes" scene="../config/map/161101_scene.json"/>
+  <space bossRefresh="../config/map/120310_bossRefresh.json" channel="" copy="1" id="120310" nav="../config/map/120310_nav.bytes" scene="../config/map/120310_scene.json"/>
+  <space bossRefresh="../config/map/120501_bossRefresh.json" channel="" copy="1" id="120501" nav="../config/map/120501_nav.bytes" scene="../config/map/120501_scene.json"/>
+  <space bossRefresh="../config/map/120502_bossRefresh.json" channel="" copy="1" id="120502" nav="../config/map/120502_nav.bytes" scene="../config/map/120502_scene.json"/>
+  <space bossRefresh="../config/map/120503_bossRefresh.json" channel="" copy="1" id="120503" nav="../config/map/120503_nav.bytes" scene="../config/map/120503_scene.json"/>
+  <space bossRefresh="../config/map/120504_bossRefresh.json" channel="" copy="1" id="120504" nav="../config/map/120504_nav.bytes" scene="../config/map/120504_scene.json"/>
+  <space bossRefresh="../config/map/120505_bossRefresh.json" channel="" copy="1" id="120505" nav="../config/map/120505_nav.bytes" scene="../config/map/120505_scene.json"/>
+  <space bossRefresh="../config/map/120506_bossRefresh.json" channel="" copy="1" id="120506" nav="../config/map/120506_nav.bytes" scene="../config/map/120506_scene.json"/>
+  <space bossRefresh="../config/map/120507_bossRefresh.json" channel="" copy="1" id="120507" nav="../config/map/120507_nav.bytes" scene="../config/map/120507_scene.json"/>
+  <space bossRefresh="../config/map/120508_bossRefresh.json" channel="" copy="1" id="120508" nav="../config/map/120508_nav.bytes" scene="../config/map/120508_scene.json"/>
+  <space bossRefresh="../config/map/120509_bossRefresh.json" channel="" copy="1" id="120509" nav="../config/map/120509_nav.bytes" scene="../config/map/120509_scene.json"/>
+  <space bossRefresh="../config/map/120510_bossRefresh.json" channel="" copy="1" id="120510" nav="../config/map/120510_nav.bytes" scene="../config/map/120510_scene.json"/>
+  <space bossRefresh="../config/map/120601_bossRefresh.json" channel="" copy="1" id="120601" nav="../config/map/120601_nav.bytes" scene="../config/map/120601_scene.json"/>
+  <space bossRefresh="../config/map/120701_bossRefresh.json" channel="" copy="1" id="120701" nav="../config/map/120701_nav.bytes" scene="../config/map/120701_scene.json"/>
+  <space bossRefresh="../config/map/120801_bossRefresh.json" channel="" copy="1" id="120801" nav="../config/map/120801_nav.bytes" scene="../config/map/120801_scene.json"/>
+  <space bossRefresh="../config/map/120201_bossRefresh.json" channel="" copy="1" id="120201" nav="../config/map/120201_nav.bytes" scene="../config/map/120201_scene.json"/>
+  <space bossRefresh="../config/map/120202_bossRefresh.json" channel="" copy="1" id="120202" nav="../config/map/120202_nav.bytes" scene="../config/map/120202_scene.json"/>
+  <space bossRefresh="../config/map/120203_bossRefresh.json" channel="" copy="1" id="120203" nav="../config/map/120203_nav.bytes" scene="../config/map/120203_scene.json"/>
+  <space bossRefresh="../config/map/120204_bossRefresh.json" channel="" copy="1" id="120204" nav="../config/map/120204_nav.bytes" scene="../config/map/120204_scene.json"/>
+  <space bossRefresh="../config/map/120205_bossRefresh.json" channel="" copy="1" id="120205" nav="../config/map/120205_nav.bytes" scene="../config/map/120205_scene.json"/>
+  <space bossRefresh="../config/map/120206_bossRefresh.json" channel="" copy="1" id="120206" nav="../config/map/120206_nav.bytes" scene="../config/map/120206_scene.json"/>
+  <space bossRefresh="../config/map/120901_bossRefresh.json" channel="" copy="1" id="120901" nav="../config/map/120901_nav.bytes" scene="../config/map/120901_scene.json"/>
+  <space bossRefresh="../config/map/121001_bossRefresh.json" channel="" copy="1" id="121001" nav="../config/map/121001_nav.bytes" scene="../config/map/121001_scene.json"/>
+  <space bossRefresh="../config/map/121101_bossRefresh.json" channel="" copy="1" id="121101" nav="../config/map/121101_nav.bytes" scene="../config/map/121101_scene.json"/>
+  <space bossRefresh="../config/map/121102_bossRefresh.json" channel="" copy="1" id="121102" nav="../config/map/121102_nav.bytes" scene="../config/map/121102_scene.json"/>
+  <space bossRefresh="../config/map/121103_bossRefresh.json" channel="" copy="1" id="121103" nav="../config/map/121103_nav.bytes" scene="../config/map/121103_scene.json"/>
+  <space bossRefresh="../config/map/121104_bossRefresh.json" channel="" copy="1" id="121104" nav="../config/map/121104_nav.bytes" scene="../config/map/121104_scene.json"/>
+  <space bossRefresh="../config/map/121105_bossRefresh.json" channel="" copy="1" id="121105" nav="../config/map/121105_nav.bytes" scene="../config/map/121105_scene.json"/>
+  <space bossRefresh="../config/map/130101_bossRefresh.json" channel="" copy="1" id="130101" nav="../config/map/130101_nav.bytes" scene="../config/map/130101_scene.json"/>
+  <space bossRefresh="../config/map/130201_bossRefresh.json" channel="" copy="1" id="130201" nav="../config/map/130201_nav.bytes" scene="../config/map/130201_scene.json"/>
+  <space bossRefresh="../config/map/161102_bossRefresh.json" channel="" copy="1" id="161102" nav="../config/map/161102_nav.bytes" scene="../config/map/161102_scene.json"/>
+  <space bossRefresh="../config/map/140301_bossRefresh.json" channel="" copy="1" id="140301" nav="../config/map/140301_nav.bytes" scene="../config/map/140301_scene.json"/>
+  <space bossRefresh="../config/map/130301_bossRefresh.json" channel="" copy="1" id="130301" nav="../config/map/130301_nav.bytes" scene="../config/map/130301_scene.json"/>
+  <space bossRefresh="../config/map/140131_bossRefresh.json" channel="" copy="1" id="140131" nav="../config/map/140131_nav.bytes" scene="../config/map/140131_scene.json"/>
+  <space bossRefresh="../config/map/140202_bossRefresh.json" channel="" copy="1" id="140202" nav="../config/map/140202_nav.bytes" scene="../config/map/140202_scene.json"/>
+  <space bossRefresh="../config/map/140501_bossRefresh.json" channel="" copy="1" id="140501" nav="../config/map/140501_nav.bytes" scene="../config/map/140501_scene.json"/>
+  <space bossRefresh="../config/map/121201_bossRefresh.json" channel="" copy="1" id="121201" nav="../config/map/121201_nav.bytes" scene="../config/map/121201_scene.json"/>
+  <space bossRefresh="../config/map/121301_bossRefresh.json" channel="" copy="1" id="121301" nav="../config/map/121301_nav.bytes" scene="../config/map/121301_scene.json"/>
+  <space bossRefresh="../config/map/140401_bossRefresh.json" channel="" copy="1" id="140401" nav="../config/map/140401_nav.bytes" scene="../config/map/140401_scene.json"/>
+  <space bossRefresh="../config/map/140201_bossRefresh.json" channel="" copy="1" id="140201" nav="../config/map/140201_nav.bytes" scene="../config/map/140201_scene.json"/>
+</root>
