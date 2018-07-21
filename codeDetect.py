@@ -1,6 +1,6 @@
 import os
 import chardet
-#test11111
+
 def dirlist(path, allfile):  
     filelist =  os.listdir(path)  
     for filename in filelist:  
